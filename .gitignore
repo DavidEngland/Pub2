@@ -1,0 +1,7 @@
+pubs/
+*.md
+*.aux
+*.log
+*.out
+*.tex
+*.blg
