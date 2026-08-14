@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+
+# Quick build script for BLM1995 manuscript
+
+MAIN="main"
+
+case "$1" in
+    clean)
+        echo "🧹 Cleaning auxiliary files..."
+        rm -f *.aux *.log *.out *.toc *.bbl *.blg *.fls *.fdb_latexmk *.synctex.gz
+        rm -f sections/*.aux tables/*.aux
+        echo "Done!"
+        ;;
+    watch)
+        echo "👀 Watching files for changes..."
+        latexmk -pdf -pvc "$MAIN.tex"
+        ;;
+    *)
+        echo "🔨 Compiling $MAIN.tex..."
+        if command -v latexmk &> /dev/null; then
+            latexmk -pdf -bibtex "$MAIN.tex"
+        else
+            pdflatex "$MAIN.tex"
+            bibtex "$MAIN"
+            pdflatex "$MAIN.tex"
+            pdflatex "$MAIN.tex"
+        fi
+        echo "✅ PDF build complete: $MAIN.pdf"
+        ;;
+esac
