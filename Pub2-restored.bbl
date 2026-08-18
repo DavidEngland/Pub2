@@ -17,7 +17,8 @@ Benoit, R., 1977: On the integral of the surface layer profile-gradient
 
 \bibitem[{Blackadar(1979)}]{blackadar1979high}
 Blackadar, A.~K., 1979: High resolution models of the planetary boundary layer.
-  \textit{Advanced materials research}, \textbf{1}, 50--85.
+  \textit{Advances in Environmental Science and Engineering}, \textbf{1},
+  50--85.
 
 \bibitem[{Blyth et~al.(1993)Blyth, Dolman,, and Wood}]{blyth1993effective}
 Blyth, E.~M., A.~J. Dolman, and N.~Wood, 1993: Effective roughness lengths for
@@ -57,9 +58,9 @@ England, D.~E., and R.~T. McNider, 1994: Stability analysis of a two-layer
   boundary layer model. \textit{Journal of the Atmospheric Sciences},
   \textbf{51~(19)}, 2732--2738.
 
-\bibitem[{Garratt(1994)}]{garratt1992atmospheric}
-Garratt, J.~R., 1994: \textit{The Atmospheric Boundary Layer}. Cambridge
-  University Press, Cambridge, \doi{10.1016/0012-8252(94)90026-4}.
+\bibitem[{Garratt(1992)}]{garratt1992atmospheric}
+Garratt, J.~R., 1992: \textit{The Atmospheric Boundary Layer}. Cambridge
+  University Press, Cambridge, \doi{10.1017/CBO9780511525018}.
 
 \bibitem[{Hicks(1976)}]{hicks1976wind}
 Hicks, B.~B., 1976: Wind profile relationships from the {Wangara} experiment.
@@ -78,18 +79,18 @@ H{\"o}gstr{\"o}m, U., 1986: Reply to {Telford} and {Businger}. \textit{Journal
 
 \bibitem[{H{\"o}gstr{\"o}m(1988)}]{hogstrom1988nondimensional}
 H{\"o}gstr{\"o}m, U., 1988: Non-dimensional wind and temperature profiles in
-  the atmospheric surface layer: A re-evaluation. \textit{Topics in
-  Micrometeorology. A Festschrift for Arch Dyer}, \textbf{42~(1)}, 55--78,
-  \doi{10.1007/BF00119875}.
+  the atmospheric surface layer: A re-evaluation. \textit{Boundary-Layer
+  Meteorology}, \textbf{42~(1--2)}, 55--78, \doi{10.1007/BF00119875}.
+
+\bibitem[{Kaimal and Finnigan(1994)Kaimal, and
+  Finnigan}]{kaimal1994atmospheric}
+Kaimal, J.~C., and J.~J. Finnigan, 1994: \textit{Atmospheric Boundary Layer
+  Flows: Their Structure and Measurement}. Oxford University Press, Oxford.
 
 \bibitem[{Mahrt(1989)}]{mahrt1989limit}
 Mahrt, L., 1989: Limit cycles of intermittent turbulence in the stable boundary
   layer. \textit{Journal of the Atmospheric Sciences}, \textbf{46~(11)},
   1567--1570.
-
-\bibitem[{Mason(1995)}]{kaimal1994atmospheric}
-Mason, P., 1995: \textit{Atmospheric Boundary Layer Flows: Their Structure and
-  Measurement}. Oxford University Press, Oxford, \doi{10.1007/BF00712396}.
 
 \bibitem[{McNider et~al.(1994)McNider, England, Kaminsky,, and
   Norris}]{mcnider1994predictability}
