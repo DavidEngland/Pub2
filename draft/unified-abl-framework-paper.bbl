@@ -1,0 +1,83 @@
+\begin{thebibliography}{10}
+
+\bibitem{Beljaars1995}
+A.~C.~M. Beljaars.
+\newblock The parametrization of surface fluxes in large-scale models under free convection.
+\newblock {\em Quarterly Journal of the Royal Meteorological Society}, 121(522):255--270, 1995.
+
+\bibitem{Bell1927}
+E.~T. Bell.
+\newblock Partition polynomials.
+\newblock {\em Annals of Mathematics}, 29(1/4):38--46, 1927.
+
+\bibitem{Businger1971}
+J.~A. Businger, J.~C. Wyngaard, Y.~Izumi, and E.~F. Bradley.
+\newblock Flux-profile relationships in the atmospheric surface layer.
+\newblock {\em Journal of the Atmospheric Sciences}, 28(2):181--189, 1971.
+
+\bibitem{Comtet1974}
+L.~Comtet.
+\newblock {\em Advanced Combinatorics: The Art of Finite and Infinite Expansions}.
+\newblock D. Reidel Publishing Company, Dordrecht, Netherlands, 1974.
+
+\bibitem{Cuxart2006}
+J.~Cuxart, A.~A.~M. Holtslag, R.~J. Beare, E.~Bazile, A.~Beljaars, A.~Cheng, L.~Conangla, M.~Ek, F.~Freedman, R.~Hamdi, et~al.
+\newblock Single-column model intercomparison for a stably stratified atmospheric boundary layer.
+\newblock {\em Boundary-Layer Meteorology}, 118(2):273--303, 2006.
+
+\bibitem{Dyer1974}
+A.~J. Dyer.
+\newblock A review of flux-profile relationships.
+\newblock {\em Boundary-Layer Meteorology}, 7(3):363--372, 1974.
+
+\bibitem{Garratt1992}
+J.~R. Garratt.
+\newblock {\em The Atmospheric Boundary Layer}.
+\newblock Cambridge University Press, Cambridge, UK, 1992.
+
+\bibitem{Holtslag1993}
+A.~A.~M. Holtslag and B.~A. Boville.
+\newblock Local versus nonlocal boundary-layer diffusion in a global climate model.
+\newblock {\em Journal of Climate}, 6(10):1825--1842, 1993.
+
+\bibitem{HongNohDudhia2006}
+S.~Y. Hong, Y.~Noh, and J.~Dudhia.
+\newblock A new vertical diffusion package in a planetary boundary layer model.
+\newblock {\em Monthly Weather Review}, 134(9):2318--2341, 2006.
+
+\bibitem{Mahrt1999}
+L.~Mahrt.
+\newblock Stratified atmospheric boundary layers.
+\newblock {\em Boundary-Layer Meteorology}, 90(3):375--396, 1999.
+
+\bibitem{MellorYamada1982}
+G.~L. Mellor and T.~Yamada.
+\newblock Development of a turbulence closure model for geophysical fluid problems.
+\newblock {\em Reviews of Geophysics}, 20(4):851--875, 1982.
+
+\bibitem{MoninObukhov1954}
+A.~S. Monin and A.~M. Obukhov.
+\newblock Basic laws of turbulent mixing in the atmosphere near the ground.
+\newblock {\em Tr. Akad. Nauk SSSR Geofiz. Inst.}, 24(151):163--187, 1954.
+
+\bibitem{Morozov1966}
+V.~A. Morozov.
+\newblock On the solution of functional equations by the method of regularization.
+\newblock {\em Soviet Mathematics Doklady}, 7:414--417, 1966.
+
+\bibitem{NakanishiNiino2009}
+M.~Nakanishi and H.~Niino.
+\newblock Development of an improved turbulence closure model for the atmospheric boundary layer.
+\newblock {\em Journal of the Meteorological Society of Japan. Ser. II}, 87(5):895--912, 2009.
+
+\bibitem{Tikhonov1977}
+A.~N. Tikhonov and V.~Y. Arsenin.
+\newblock {\em Solutions of Ill-Posed Problems}.
+\newblock W. H. Winston \& Sons, Washington, D.C., 1977.
+
+\bibitem{Zilitinkevich2007}
+S.~S. Zilitinkevich, T.~Elperin, N.~Kleeorin, and I.~Rogachevskii.
+\newblock Energy- and flux-budget turbulence closure model for stably stratified flows.
+\newblock {\em Boundary-Layer Meteorology}, 125(2):167--191, 2007.
+
+\end{thebibliography}
